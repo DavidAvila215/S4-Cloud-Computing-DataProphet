@@ -21,10 +21,11 @@ Miembros del equipo:
 
 **Estructura**
 
-- Deployment.ipynb
 - Model.ipynb
 - cleaned_data.csv: Base de Datos
 - model.pkl
 - score.py
+- API.ipynb
+- prueba_1.csv: Base prueba para API
 
 **Pasos**
