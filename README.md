@@ -1,8 +1,8 @@
 # S4-Cloud-Computing-DataProphet
 
-Nombre de mi equipo: DataProphet.
+Nombre del equipo: DataProphet.
 
-Miembros de mi equipo:
+Miembros del equipo:
 1.- Ángel David Ávila Pérez. Departamento: Bases de datos. Puesto: Limpieza de datos
 2.- Samantha Ruelas Valtierra. Departamento: Cloud Computing. Puesto: Software Development.
 3.- Erika Martínez Meneses. Departamento: Modelos e implementación. Puesto: Científico de datos
