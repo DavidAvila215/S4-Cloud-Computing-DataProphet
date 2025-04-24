@@ -1,7 +1,7 @@
 # S4-Cloud-Computing-DataProphet
 
 
-Nombre del equipo: DataProphet.
+**Nombre del equipo:** DataProphet.
 
 Miembros del equipo:
 
@@ -16,10 +16,10 @@ Miembros del equipo:
 5.- Andrea Axel Hernández Galgani. Departamento: Modelos e implementación. Puesto: Científico de datos.
 
 
-Este repositorio contiene el código y la documentación necesarios para montar una base de datos en SQL, entrenar un modelo de regresión para predecir fechas de modificación, y desplegar el modelo como un servicio en la nube.
+*Este repositorio contiene el código y la documentación necesarios para montar una base de datos en SQL, entrenar un modelo de regresión para predecir fechas de modificación, y desplegar el modelo como un servicio en la nube.*
 
 
-Estructura
+**Estructura**
 
 - Deployment.ipynb
 - Model.ipynb
@@ -27,5 +27,4 @@ Estructura
 - model.pkl
 - score.py
 
-
-Pasos
+**Pasos**
